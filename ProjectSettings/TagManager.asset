@@ -3,14 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - agent
-  - car
-  - tree
-  - barrier
-  - parkingslot
-  - ground
-  - sensor
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -20,13 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - agent
-  - car
-  - tree
-  - barrier
-  - parkingslot
-  - ground
-  - sensor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
